@@ -26,9 +26,11 @@ I am a self-starter with strong interpersonal skills. I seek new challenges and 
 
 
 
-
+<p></p>
+<p></p>
 [![Sasank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasank-g&hide=issues,stars&count_private=true&show_icons=true&theme=calm)](https://github.com/sasank-g/github-readme-stats)
+![](https://raw.githubusercontent.com/sasank-g/github-stats-transparent/output/generated/overview.svg)
 
-<p align="right ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasank-g&show_icons=true&locale=en&layout=compact" alt="sasank-g" /></p>
+
 
 
