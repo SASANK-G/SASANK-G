@@ -1,4 +1,4 @@
-## Hey! I'm Sasank Gadepalli. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey! I'm Sasank Gadepalli. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 ![Design and development](https://github.com/SASANK-G/SASANK-G/blob/main/11.jpg)
 
@@ -10,6 +10,8 @@ I am a self-starter with strong interpersonal skills. I seek new challenges and 
 
 
 
+ --- 
+ 
 <h3 align="left">Languages and Tools:</h3>
 <p >
 
@@ -24,6 +26,8 @@ I am a self-starter with strong interpersonal skills. I seek new challenges and 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+
+ --- 
 
 [![Sasank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasank-g&hide=issues,stars&count_private=true&show_icons=true&theme=calm)](https://github.com/sasank-g/github-readme-stats)
 
